@@ -1,0 +1,3 @@
+{
+  "extends": ["github>superseb-demos/renovate-config"]
+}
